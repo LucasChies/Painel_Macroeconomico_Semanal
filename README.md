@@ -56,3 +56,7 @@ O script gera um PDF limpo e organizado com:
 ```bash
 git clone https://github.com/SEU_USUARIO/painel-macroeconomico.git
 cd painel-macroeconomico
+
+### 2. Chave FRED
+Obtenha uma chave gratuita do FRED: https://fred.stlouisfed.org/docs/api/api_key.html
+Coloque-a no arquivo main.py
