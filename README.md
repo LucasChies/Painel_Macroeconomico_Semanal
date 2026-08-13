@@ -46,7 +46,7 @@ O script gera um PDF limpo e organizado com:
 - Expectativas do Boletim Focus
 - Gráficos de IPCA, Dólar, VIX e Petróleo
 
-> *(Coloque aqui um print do seu PDF gerado para deixar o README mais atrativo)*
+
 
 ---
 
